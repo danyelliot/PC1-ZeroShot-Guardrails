@@ -227,19 +227,6 @@ jupyter notebook notebook.ipynb
 - `out/confidence_analysis.png`: Distribución de confianzas y accuracy por rangos
 - `out/metricas_resumen.csv`: Resumen cuantitativo de resultados
 
-## Historial de Commits
-
-El proyecto incluye un historial completo de desarrollo con 7 commits estratégicos:
-
-1. **17/09/2025 09:00** - `Inicializar documentación del proyecto PC1`
-2. **17/09/2025 14:30** - `Generar dataset y configurar estructura inicial`
-3. **18/09/2025 16:45** - `Implementar guardrails para clasificación zero-shot`
-4. **19/09/2025 11:20** - `Evaluar rendimiento y métricas de clasificación`
-5. **19/09/2025 15:30** - `Desarrollar análisis teórico y preguntas conceptuales`
-6. **20/09/2025 09:00** - `Optimizar pipeline y análisis de errores final`
-
-Cada commit representa una fase específica del desarrollo, desde la configuración inicial hasta la optimización final.
-
 ## Dependencias Principales
 
 ```
