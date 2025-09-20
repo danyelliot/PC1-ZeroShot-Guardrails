@@ -1,0 +1,51 @@
+Texto,Categoría,pred_prompt1,conf_prompt1,guardrail_prompt1,pred_prompt2,conf_prompt2,guardrail_prompt2
+Implementar lematización se usa para innovador en proyectos reales.,Positivo,Positivo,0.5658383369445801,Sin activación de guardrail,Positivo,0.4661868214607239,Sin activación de guardrail
+"No entiendo cómo funciona la embeddings, es fascinante.",Positivo,Positivo,0.6775962710380554,Sin activación de guardrail,Negativo,0.48598912358283997,Sin activación de guardrail
+Implementar BPE ayuda a eficiente en proyectos reales.,Positivo,Positivo,0.9203005433082581,Sin activación de guardrail,Positivo,0.5814839601516724,Sin activación de guardrail
+"No entiendo cómo funciona la lematización, es difícil.",Negativo,Negativo,0.8731500506401062,Sin activación de guardrail,Negativo,0.7607625126838684,Sin activación de guardrail
+"No entiendo cómo funciona la perplejidad, es necesario.",Neutral,Negativo,0.7888765931129456,Sin activación de guardrail,Negativo,0.7938390970230103,Sin activación de guardrail
+Los transformers son interesante pero innovador.,Neutral,Positivo,0.9241467118263245,Sin activación de guardrail,Positivo,0.7493863701820374,Sin activación de guardrail
+Implementar clasificación es necesario en proyectos reales.,Neutral,Negativo,0.46502694487571716,Sin activación de guardrail,Negativo,0.5875129103660583,Sin activación de guardrail
+Implementar modelos de lenguaje requiere fundamental en proyectos reales.,Neutral,Negativo,0.6071292757987976,Sin activación de guardrail,Negativo,0.4837660491466522,Sin activación de guardrail
+Entender los transformers resulta limitado en el curso de NLP.,Negativo,Negativo,0.8246317505836487,Sin activación de guardrail,Negativo,0.6558862328529358,Sin activación de guardrail
+"No entiendo cómo funciona la transformers, es técnico.",Neutral,Negativo,0.8204939961433411,Sin activación de guardrail,Negativo,0.6887052059173584,Sin activación de guardrail
+"No entiendo cómo funciona la clasificación, es difícil.",Negativo,Negativo,0.9501953125,Sin activación de guardrail,Negativo,0.8453001379966736,Sin activación de guardrail
+La regularización mejora limitado para procesar texto.,Negativo,Positivo,0.5188449025154114,Sin activación de guardrail,Positivo,0.6101406216621399,Sin activación de guardrail
+Los tokenización son innovador pero fascinante.,Positivo,Positivo,0.9706148505210876,Sin activación de guardrail,Positivo,0.9285910129547119,Sin activación de guardrail
+Implementar perplejidad resulta difícil en proyectos reales.,Negativo,Negativo,0.8220207691192627,Sin activación de guardrail,Negativo,0.7389159202575684,Sin activación de guardrail
+"No entiendo cómo funciona la clasificación, es esencial.",Positivo,Negativo,0.8055954575538635,Sin activación de guardrail,Negativo,0.7318735718727112,Sin activación de guardrail
+Implementar transformers requiere lento en proyectos reales.,Negativo,Negativo,0.7204939126968384,Sin activación de guardrail,Negativo,0.6497126221656799,Sin activación de guardrail
+La embeddings mejora fascinante para procesar texto.,Positivo,Positivo,0.9705332517623901,Sin activación de guardrail,Positivo,0.9297673106193542,Sin activación de guardrail
+Entender los lematización requiere fundamental en el curso de NLP.,Neutral,Negativo,0.6451614499092102,Sin activación de guardrail,Negativo,0.4645373225212097,Sin activación de guardrail
+Implementar tokenización es necesario en proyectos reales.,Neutral,Negativo,0.6166165471076965,Sin activación de guardrail,Negativo,0.6300243735313416,Sin activación de guardrail
+"No entiendo cómo funciona la BPE, es esencial.",Positivo,Negativo,0.8300331830978394,Sin activación de guardrail,Negativo,0.7690038681030273,Sin activación de guardrail
+La tokenización es lento para procesar texto.,Negativo,Negativo,0.635758638381958,Sin activación de guardrail,Negativo,0.596994161605835,Sin activación de guardrail
+Los LLMs son lento pero confuso.,Negativo,Negativo,0.7953618168830872,Sin activación de guardrail,Negativo,0.8429591059684753,Sin activación de guardrail
+"No entiendo cómo funciona la embeddings, es frustrante.",Negativo,Negativo,0.9960098266601562,Sin activación de guardrail,Negativo,0.9851270318031311,Sin activación de guardrail
+Implementar BPE es técnico en proyectos reales.,Neutral,Positivo,0.7240081429481506,Sin activación de guardrail,Positivo,0.45225828886032104,Sin activación de guardrail
+Los BPE son fascinante pero fascinante.,Positivo,Positivo,0.6938273906707764,Sin activación de guardrail,Positivo,0.6120577454566956,Sin activación de guardrail
+"No entiendo cómo funciona la clasificación, es fundamental.",Neutral,Negativo,0.8559839129447937,Sin activación de guardrail,Negativo,0.7524219751358032,Sin activación de guardrail
+Implementar LLMs parece lento en proyectos reales.,Negativo,Negativo,0.8861218690872192,Sin activación de guardrail,Negativo,0.7492026090621948,Sin activación de guardrail
+Entender los perplejidad es limitado en el curso de NLP.,Negativo,Negativo,0.8942698836326599,Sin activación de guardrail,Negativo,0.8513116240501404,Sin activación de guardrail
+Implementar BPE es innovador en proyectos reales.,Positivo,Positivo,0.8825637102127075,Sin activación de guardrail,Positivo,0.5921564102172852,Sin activación de guardrail
+Entender los BPE es complejo en el curso de NLP.,Neutral,Negativo,0.6467858552932739,Sin activación de guardrail,Negativo,0.42645731568336487,Sin activación de guardrail
+"No entiendo cómo funciona la tokenización, es innovador.",Positivo,Negativo,0.7426043152809143,Sin activación de guardrail,Negativo,0.7439447641372681,Sin activación de guardrail
+"No entiendo cómo funciona la embeddings, es lento.",Negativo,Negativo,0.9111444354057312,Sin activación de guardrail,Negativo,0.7939953207969666,Sin activación de guardrail
+Los clasificación son fundamental pero innovador.,Neutral,Positivo,0.9263511300086975,Sin activación de guardrail,Positivo,0.5693814158439636,Sin activación de guardrail
+Entender los transformers parece esencial en el curso de NLP.,Positivo,Negativo,0.50169837474823,Sin activación de guardrail,Negativo,0.4746335446834564,Sin activación de guardrail
+"No entiendo cómo funciona la transformers, es limitado.",Negativo,Negativo,0.8552954196929932,Sin activación de guardrail,Negativo,0.7835336327552795,Sin activación de guardrail
+La embeddings mejora necesario para procesar texto.,Neutral,Negativo,0.5071349143981934,Sin activación de guardrail,Negativo,0.45525768399238586,Sin activación de guardrail
+Entender los embeddings parece confuso en el curso de NLP.,Negativo,Negativo,0.7207230925559998,Sin activación de guardrail,Negativo,0.5588452219963074,Sin activación de guardrail
+La LLMs ayuda a fascinante para procesar texto.,Positivo,Positivo,0.7968014478683472,Sin activación de guardrail,Positivo,0.6907360553741455,Sin activación de guardrail
+Los lematización son esencial pero técnico.,Positivo,Positivo,0.5887950658798218,Sin activación de guardrail,Positivo,0.42183956503868103,Sin activación de guardrail
+Los modelos de lenguaje son fundamental pero eficiente.,Neutral,Positivo,0.943938672542572,Sin activación de guardrail,Positivo,0.6667469143867493,Sin activación de guardrail
+La lematización requiere claro para procesar texto.,Positivo,Negativo,0.5411791205406189,Sin activación de guardrail,Negativo,0.4703202545642853,Sin activación de guardrail
+Los modelos de lenguaje son lento pero técnico.,Negativo,Neutral,0.5197328925132751,Sin activación de guardrail,Neutral,0.40839940309524536,Sin activación de guardrail
+Implementar lematización ayuda a fundamental en proyectos reales.,Neutral,Positivo,0.7640495896339417,Sin activación de guardrail,Positivo,0.5117362141609192,Sin activación de guardrail
+La regularización resulta necesario para procesar texto.,Neutral,Negativo,0.5988688468933105,Sin activación de guardrail,Negativo,0.5643148422241211,Sin activación de guardrail
+"No entiendo cómo funciona la transformers, es fascinante.",Positivo,Positivo,0.8759583234786987,Sin activación de guardrail,Positivo,0.6088912487030029,Sin activación de guardrail
+Los embeddings son técnico pero interesante.,Neutral,Positivo,0.9784210920333862,Sin activación de guardrail,Positivo,0.7022173404693604,Sin activación de guardrail
+Entender los modelos de lenguaje es difícil en el curso de NLP.,Negativo,Negativo,0.6032586693763733,Sin activación de guardrail,Negativo,0.5053757429122925,Sin activación de guardrail
+Implementar transformers resulta esencial en proyectos reales.,Positivo,Positivo,0.8352728486061096,Sin activación de guardrail,Positivo,0.4510446786880493,Sin activación de guardrail
+Entender los perplejidad es difícil en el curso de NLP.,Negativo,Negativo,0.9620668888092041,Sin activación de guardrail,Negativo,0.9482313394546509,Sin activación de guardrail
+Implementar perplejidad parece técnico en proyectos reales.,Neutral,Positivo,0.8123167753219604,Sin activación de guardrail,Positivo,0.4409862160682678,Sin activación de guardrail
